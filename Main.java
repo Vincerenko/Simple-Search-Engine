@@ -8,7 +8,6 @@ public class Main {
     private static final Scanner sc = new Scanner(System.in);
     private static final List<List<String>> START_LIST_OF_PEOPLE = new ArrayList<>(100);
     private static final Map<String, Set<Integer>> MAP_INVERTED_INDEX = new HashMap<>();
-/Users/asanin/IdeaProjects/Simple Search Engine/Simple Search Engine/task/src/search/Main.java
     public static void main(String[] args) {
         startDotExe(args[1]);
     }
